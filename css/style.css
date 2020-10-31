@@ -55,7 +55,7 @@ main {
 .block-row {  
   /* width: 80%; */
   /* margin: auto; */
-  border: 8px solid yellow;
+  border: 8px solid rgb(52, 208, 104);
   height: 300px;
   display: flex;
   flex-wrap: wrap;
